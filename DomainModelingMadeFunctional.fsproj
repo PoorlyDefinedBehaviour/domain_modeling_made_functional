@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="src/understanding_types/UnderstandingTypes.fs" />
     <Compile Include="src/Program.fs" />
   </ItemGroup>
 
