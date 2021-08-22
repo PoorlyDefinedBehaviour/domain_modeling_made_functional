@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="src/integrity_and_consistency/IntegrityAndCosistency.fs" />
     <Compile Include="src/value_objects/ValueObjects.fs" />
     <Compile Include="src/domain_example_1/Widgets.fs" />
     <Compile Include="src/building_a_domain_model_by_composing_types/EcommercePayments.fs" />
