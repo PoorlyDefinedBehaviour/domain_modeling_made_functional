@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="src/implementing_1/Implementing.fs" />
     <Compile Include="src/order_taking_2/OrderTaking.fs" />
     <Compile Include="src/integrity_and_consistency/IntegrityAndCosistency.fs" />
     <Compile Include="src/value_objects/ValueObjects.fs" />
